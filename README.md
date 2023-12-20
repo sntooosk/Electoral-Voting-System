@@ -4,7 +4,7 @@
 Este projeto consiste em um Sistema de Urna Eleitoral desenvolvido em Java. Ele oferece funcionalidades para simular o processo eleitoral, permitindo votos e contagem dos resultados.
 
 ## Bibliotecas
-- - [MySQL JDBC Driver](https://dev.mysql.com/downloads/connector/j/)
+-  [MySQL JDBC Driver](https://dev.mysql.com/downloads/connector/j/)
 
 ## Ferramentas
 - [OpenJDK 8 (LTS)](https://adoptopenjdk.net/)
